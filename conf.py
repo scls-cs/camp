@@ -9,7 +9,7 @@ comments_config = {'hypothesis': False, 'utterances': False}
 copybutton_only_copy_prompt_lines = False
 copybutton_prompt_text = ''
 copybutton_remove_prompts = False
-copyright = '2022'
+copyright = '2023'
 exclude_patterns = ['**.ipynb_checkpoints', '.DS_Store', '.github',
                     'README.md', 'Thumbs.db', '__pycache__', '_build']
 execution_allow_errors = False
@@ -33,7 +33,7 @@ html_static_path = ['_static']
 html_theme = 'sphinx_book_theme'
 html_theme_options = {'search_bar_text': 'Search this book...',
                       'launch_buttons': {'notebook_interface': 'classic','thebe': True}, 'path_to_docs': '',
-                      'repository_url':'https://github.com/scls-cs/cs2022',
+                      'repository_url':'https://github.com/scls-cs/cs2023',
                       'repository_branch': 'jb',
                       'google_analytics_id': 'G-BZGV6J36FT', 'extra_navbar':
                           '', 'extra_footer': 'This book is for teaching '
