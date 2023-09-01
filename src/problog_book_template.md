@@ -1,7 +1,32 @@
 (sec:intro)=
-## 🔥期中大作业展示🔥 ##
+## 课程须知 ##
 
-# Students' Website Work
+# 课程介绍
+* Python程序设计（50%）
+* 计算机理论知识（30%）
+信息编码，计算机硬件，网络原理…
+* 计算机应用实践（20%）
+图像处理，数据库，游戏设计，网页设计，人工智能…
+
+# 成绩评定
+* 课堂表现（10%），平时作业（60%），期末大作业（30%）
+
+# 作业提交
+* 每周作业会在周五晚上公布，下周三晚上10点前提交
+* 作业可以反复提交，以最后提交的作业为准
+* 错过截止时间后果很严重
+** 周四中午12点前提交：60%分数 **
+** 周四中午12点后提交：0分 **
+
+# 编程工具
+* Replit: 可以在浏览器上完成复杂的编程（replit.com)
+* 需要注册Replit账号并加入班级
+* 编程作业在Replit上进行提交
+
+
+
+
+
 
 This page showcases the websites created by our talented students. Click on the project title to visit the website.
 
