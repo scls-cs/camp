@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a1d724a8-62a5-46aa-b63d-222ce2b214d5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/index.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_intro/first_program.rst" beforeDir="false" afterPath="$PROJECT_DIR$/python_intro/first_program.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_intro/variable.rst" beforeDir="false" afterPath="$PROJECT_DIR$/python_intro/variable.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problog_book_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/problog_book_template.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,14 +155,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/game" />
@@ -282,7 +282,9 @@
       <workItem from="1684195222008" duration="236000" />
       <workItem from="1684205383872" duration="5840000" />
       <workItem from="1684824236837" duration="5138000" />
-      <workItem from="1693528470683" duration="1391000" />
+      <workItem from="1693528470683" duration="2614000" />
+      <workItem from="1694046384656" duration="436000" />
+      <workItem from="1694130294327" duration="107000" />
     </task>
     <servers />
   </component>
