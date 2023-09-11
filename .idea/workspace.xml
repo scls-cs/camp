@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1d724a8-62a5-46aa-b63d-222ce2b214d5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/python_intro/第一课.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_intro/first_program.rst" beforeDir="false" afterPath="$PROJECT_DIR$/python_intro/first_program.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_intro/variable.rst" beforeDir="false" afterPath="$PROJECT_DIR$/python_intro/variable.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problog_book_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/problog_book_template.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,11 +171,11 @@
       <recent name="$PROJECT_DIR$/condition" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python_intro" />
       <recent name="$PROJECT_DIR$/game" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/system" />
       <recent name="$PROJECT_DIR$/network" />
-      <recent name="$PROJECT_DIR$/src/image" />
     </key>
   </component>
   <component name="RunManager">
@@ -284,7 +283,8 @@
       <workItem from="1684824236837" duration="5138000" />
       <workItem from="1693528470683" duration="2614000" />
       <workItem from="1694046384656" duration="436000" />
-      <workItem from="1694130294327" duration="107000" />
+      <workItem from="1694130294327" duration="576000" />
+      <workItem from="1694390061199" duration="535000" />
     </task>
     <servers />
   </component>
