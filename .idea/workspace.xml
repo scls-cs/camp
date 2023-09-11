@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1d724a8-62a5-46aa-b63d-222ce2b214d5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/python_intro/第一课.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_intro/first_program.rst" beforeDir="false" afterPath="$PROJECT_DIR$/python_intro/first_program.rst" afterDir="false" />
-    </list>
+    <list default="true" id="a1d724a8-62a5-46aa-b63d-222ce2b214d5" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -284,7 +280,7 @@
       <workItem from="1693528470683" duration="2614000" />
       <workItem from="1694046384656" duration="436000" />
       <workItem from="1694130294327" duration="576000" />
-      <workItem from="1694390061199" duration="535000" />
+      <workItem from="1694390061199" duration="865000" />
     </task>
     <servers />
   </component>
