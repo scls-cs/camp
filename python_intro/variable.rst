@@ -137,6 +137,12 @@ Python中提供了几组类型转换的函数，可以将一个类型的变量�
 
 如果你想了解类型转换更多的细节，可以参考：https://www.w3school.com.cn/python/ref_func_int.asp
 
+
+课件
+----
+
+:download:`信息技术第三讲课件 <第三课.pdf>`.
+
 作业：
 ---------------
 
