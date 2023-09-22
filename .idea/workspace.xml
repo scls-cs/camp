@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1d724a8-62a5-46aa-b63d-222ce2b214d5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/function/~$函数.pptx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_toc.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_toc.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function/function.rst" beforeDir="false" afterPath="$PROJECT_DIR$/function/function.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function/hw1.rst" beforeDir="false" afterPath="$PROJECT_DIR$/function/hw1.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_intro/variable.rst" beforeDir="false" afterPath="$PROJECT_DIR$/python_intro/variable.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,7 +289,9 @@
       <workItem from="1694130294327" duration="576000" />
       <workItem from="1694390061199" duration="1458000" />
       <workItem from="1694755529914" duration="1303000" />
-      <workItem from="1694780163713" duration="93000" />
+      <workItem from="1694780163713" duration="584000" />
+      <workItem from="1695339885053" duration="1000" />
+      <workItem from="1695390037302" duration="1004000" />
     </task>
     <servers />
   </component>

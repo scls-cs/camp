@@ -8,3 +8,8 @@ parts:
     title: '走近Python'
   - file: python_intro/variable
     title: '变量与数据类型'
+
+- caption: Function
+  chapters:
+  - file: function/function
+    title: '函数'

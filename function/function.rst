@@ -102,6 +102,4 @@ Geometry Formulas
 ---------
 完成 :ref:`hw1`
 
-优秀作业
--------
 
