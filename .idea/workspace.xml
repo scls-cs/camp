@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1d724a8-62a5-46aa-b63d-222ce2b214d5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.readthedocs.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function/hw2.rst" beforeDir="false" afterPath="$PROJECT_DIR$/function/hw2.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,7 +290,7 @@
       <workItem from="1695390037302" duration="1162000" />
       <workItem from="1695519662787" duration="7000" />
       <workItem from="1696813251779" duration="140000" />
-      <workItem from="1696816611680" duration="1873000" />
+      <workItem from="1696816611680" duration="2498000" />
     </task>
     <servers />
   </component>

@@ -5,6 +5,7 @@ Problem Set 1
 TASK I:
 -------
 完成下列字符串练习：
+
 * https://www.w3schools.com/python/python_strings.asp
 * https://www.w3schools.com/python/python_strings_slicing.asp
 * https://www.w3schools.com/python/python_strings_concatenate.asp
@@ -13,7 +14,7 @@ TASK I无需提交。
 
 TASK II:
 ---------
-完成codingbat的任务：
+完成codingbat的任务，每道题完成需要截图：
 
 * https://codingbat.com/prob/p182144
 * https://codingbat.com/prob/p132290
@@ -29,9 +30,12 @@ Implement a function called replace_space() in Python that prompts the user for 
 .. image:: terminal.gif
   :width: 400
 
-提交方式：见https://replit.com/team/SCLS-CS2023/HW4
+提交方式
+-----------
 
-作业截止时间：10月12日晚上10点。
+* 见https://replit.com/team/SCLS-CS2023/HW4
 
->>image:: terminal.gif
+* 作业截止时间：10月12日晚上10点。
+
+
 
