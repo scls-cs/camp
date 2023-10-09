@@ -13,3 +13,5 @@ parts:
   chapters:
   - file: function/function
     title: '函数'
+  - file: function/string
+    title: '字符串'
