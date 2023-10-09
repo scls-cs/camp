@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1d724a8-62a5-46aa-b63d-222ce2b214d5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.readthedocs.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_toc.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_toc.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function/hw2.rst" beforeDir="false" afterPath="$PROJECT_DIR$/function/hw2.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function/~$函数.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/function/字符串.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/function/字符串.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/index.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,11 +170,11 @@
       <recent name="$PROJECT_DIR$/condition" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/function" />
       <recent name="$PROJECT_DIR$/python_intro" />
       <recent name="$PROJECT_DIR$/game" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/system" />
-      <recent name="$PROJECT_DIR$/network" />
     </key>
   </component>
   <component name="RunManager">
@@ -294,7 +290,7 @@
       <workItem from="1695390037302" duration="1162000" />
       <workItem from="1695519662787" duration="7000" />
       <workItem from="1696813251779" duration="140000" />
-      <workItem from="1696816611680" duration="1572000" />
+      <workItem from="1696816611680" duration="1873000" />
     </task>
     <servers />
   </component>
