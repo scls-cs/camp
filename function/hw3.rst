@@ -75,8 +75,9 @@ The number of possible choices of balls is :math:`\frac{n!}{(n-k)! * k!}`, when 
   :width: 750
 
 
-Submit:
+提交:
 -----------
 
-Put the four functions into one python file, and share your project link via 钉钉作业本。Please submit by Oct 16th, 22PM.
+replit链接：https://replit.com/team/SCLS-CS2023/HW5
 
+每个函数至少需要测试（调用）两次。
