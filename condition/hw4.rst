@@ -29,29 +29,8 @@ Typing by yourself if highly recommended, but copy and paste it is also fine as 
         x = x + 2
     print(3 * x)
 
-2. Function with if statement
-----------------
-Write the following functions to your editor. Describe what each of the functions does, which you will add it besides the function as comment using #.
 
-.. code-block:: python
-
-    def getGPA(grade):
-        if(grade > 90):
-            return 'A'
-        if(grade > 80):
-            return 'B'
-        if(grade > 70):
-            return 'C'
-        return 'D'
-
-.. code-block:: python
-
-    def magic_string(s):
-        s1 = s[0:len(s)//2]
-        s2 = s[len(s)//2:]
-        return s1 == s2
-
-3. Write your own function
+2 . Write your own function
 ----------------------
 Distance II
 +++++++++++
@@ -77,5 +56,4 @@ Write a function called check(), to determine if a 3-digit number which user inp
 Submit:
 -----------
 
-Put all your work into one python file, and share your project link via 钉钉作业本。Please submit by Oct 23th, 22PM.
-
+https://replit.com/team/SCLS-CS2023/HW6
