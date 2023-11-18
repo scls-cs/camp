@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1d724a8-62a5-46aa-b63d-222ce2b214d5" name="Default" comment="" />
+    <list default="true" id="a1d724a8-62a5-46aa-b63d-222ce2b214d5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/loop/While循环.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_toc.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_toc.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/while.md" beforeDir="false" afterPath="$PROJECT_DIR$/loop/while.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +159,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/hutong/Desktop/School/2023-2024 S1/cs2023/function&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hutong/Desktop/School/2023-2024 S1/cs2023/condition&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
@@ -161,11 +167,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/condition" />
       <recent name="$PROJECT_DIR$/function" />
       <recent name="$PROJECT_DIR$/game" />
       <recent name="$PROJECT_DIR$/finalwork" />
       <recent name="$PROJECT_DIR$/final" />
-      <recent name="$PROJECT_DIR$/loop" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/function" />
@@ -295,6 +301,8 @@
       <workItem from="1696894226199" duration="23000" />
       <workItem from="1697205694642" duration="924000" />
       <workItem from="1698036693889" duration="1000" />
+      <workItem from="1699006864967" duration="742000" />
+      <workItem from="1699016208480" duration="482000" />
     </task>
     <servers />
   </component>

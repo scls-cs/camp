@@ -22,3 +22,8 @@ parts:
   chapters:
   - file: condition/if
     title: '条件判断'
+
+- caption: Loop
+  chapters:
+  - file: loop/while
+    title: 'while循环'

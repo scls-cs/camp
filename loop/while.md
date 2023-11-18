@@ -119,6 +119,23 @@ print(f(2,3))   #8
 print(f(3,4))   #81
 ```
 
+## 作业 ##
+
+1. Write a while loop that will print the numbers from 1 to 100 (inclusive), one number per line.
+i = 1
+while(i<=100):
+  print(i)
+  i=i+1
+
+2. Write a while loop that will print the numbers from 50 to -50 (inclusive), one number per line.
+
+3. Given some positive number n, write a while loop that will print the odd numbers from -n to n (inclusive), one number per line. The given number may be even or odd.
+
+    
+4. 给出一个小球从100米的高度自由落体，每次碰到地面后都会反弹到原来高度的90%。计算球在高度小于1米后，总共弹跳了多少次。
+
+5. 设想你每月向银行账户存入100元，银行年利率为2%。计算需要多少个月，你的银行账户的余额才能达到5000元。
+
 ## 课件 ##
 
-课件下载：{download}`Loops I <Loops.pptx>`
+课件下载：{download}`Loops I <While循环.pptx>`
