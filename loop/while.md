@@ -132,7 +132,7 @@ while(i<=100):
 3. Given some positive number n, write a while loop that will print the odd numbers from -n to n (inclusive), one number per line. The given number may be even or odd.
 
     
-4. 给出一个小球从100米的高度自由落体，每次碰到地面后都会反弹到原来高度的90%。计算球在高度小于1米后，总共弹跳了多少次。
+4. 给出一个小球从100米的高度自由落体，每次碰到地面后都会反弹到原来高度的90%。计算球在反弹高度第一次小于1米的时候，总共弹跳了多少次。
 
 5. 设想你每月向银行账户存入100元，银行年利率为2%。计算需要多少个月，你的银行账户的余额才能达到5000元。
 
