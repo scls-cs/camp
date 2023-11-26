@@ -70,7 +70,7 @@ list_length = len(my_list)
 
 ## 作业 ##
 
-1. Write a function which use while loop that iterates over a list of numbers and prints each number on a new line.
+1. Write a function which use for loop that iterates over a list of numbers and prints each number on a new line.
 
 ```{code-cell} python3
 def printAll(x):
@@ -81,7 +81,7 @@ l = [1,2,3,4,5,6]
 printAll(l) #should print each number on a new line
 ```
 
-2. Modify the while loop from the first question so that it only prints numbers that are even.
+2. Modify the for loop from the first question so that it only prints numbers that are even.
 
 ```{code-cell} python3
 def printAllEven(x):
@@ -92,7 +92,7 @@ l = [1,2,3,4,5,6]
 printAll(l) #should print 2,4,6
 ```
 
-3. Write a function using while loop that adds up all the numbers in the list and prints the total at the end.
+3. Write a function using for loop that adds up all the numbers in the list and prints the total at the end.
 
 ```{code-cell} python3
 def addAll(x):
@@ -104,7 +104,7 @@ l = [1,2,3,4,5,6]
 print(addAll(l)) #should get 21
 ```
 
-4. Modify the while loop from the third question so that it only adds up numbers that are odd.
+4. Modify the for loop from the third question so that it only adds up numbers that are odd.
 
 ```{code-cell} python3
 def addAll(x):
