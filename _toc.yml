@@ -18,7 +18,7 @@ parts:
   - file: function/math
     title: '数学函数'
 
-- caption: Conditional Statmeent
+- caption: Conditional Statement
   chapters:
   - file: condition/if
     title: '条件判断'
@@ -27,3 +27,5 @@ parts:
   chapters:
   - file: loop/while
     title: 'while循环'
+  - file: loop/list
+    title: 'for循环'
