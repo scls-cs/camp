@@ -29,3 +29,8 @@ parts:
     title: 'while循环'
   - file: loop/list
     title: 'for循环'
+
+- caption: final
+  chapters:
+  - file: final/image
+    title: '图像编码'
