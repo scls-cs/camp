@@ -34,3 +34,5 @@ parts:
   chapters:
   - file: final/image
     title: '图像编码'
+  - file: final/final_1
+    title: '期末大作业I'
