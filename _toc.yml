@@ -38,3 +38,10 @@ parts:
     title: '期末大作业I'
   - file: final/final_2
     title: '期末大作业II'
+
+- caption: system
+  chapters:
+  - file: system/history
+    title: '计算机发展史'
+  - file: system/overview
+    title: '计算机网络'
