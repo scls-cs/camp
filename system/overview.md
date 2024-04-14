@@ -52,22 +52,33 @@ kernelspec:
 1. 请查找自己计算机的IP地址，在本题下方放上屏幕截图。
 
 2. 打开终端（Windows是cmd），用nslookup命令查找下列域名对应的IP地址，并在下方放上屏幕截图。
-    a. UCLA大学官网：www.ucla.edu
-    
-	  b. 任意至少两个其它网站
 
-4. 请用traceroute(Mac)或者tracert(Windows)命令来追踪从你的电脑到UCLA服务器的网络路径，放上屏幕截图并回答下列问题：
+* www.baidu.com
+* www.google.com
+* www.scls.org.cn
+
+3. 请用traceroute(Mac)或者tracert(Windows)命令来追踪从你的电脑到任意一个国外大学的服务器的网络路径，放上屏幕截图并回答下列问题：
 
     a.	请描述路径经过的地理位置，以及传输所需要的时间
 
     b.	第一个路由器的ip地址是多少？你认为第一个路由器在哪里？
 
-    c.	为什么UCLA的服务器不在LA？
+对于traceroute命令，你可以查看：https://www.fortinet.com/cn/resources/cyberglossary/traceroutes
 
-5. IPV4和IPV6都是互联网协议，用于在网络上标识不同的设备。请查询资料，描述IPV4和IPV6的区别。描述中至少需要对比两种协议的地址长度，地址表示方式，可分配地址数量等方面的区别。
+4. HTTP 响应状态码用来表明特定 HTTP 请求是否成功完成。 响应被归为以下五大类：
 
-6. 【选做】第一题中，如果我们通过计算机的设置来查找IP，显示的IP地址通常是以192.168开头。但在百度中搜索IP，显示的结果又不一样。为什么会有这样的差异？
+* 信息响应 (100–199)
+* 成功响应 (200–299)
+* 重定向消息 (300–399)
+* 客户端错误响应 (400–499)
+* 服务端错误响应 (500–599)
 
-提交方式：Word文档，截止本周日晚10点。
+访问以下网站，通过浏览器中的开发者工具来查看网络请求和相应。其中最主要的状态码是什么？状态码在这里的作用是什么？
+
+* 世界三流大学.com
+* https://www.bilibili.com/fake
+* https://docs.google.com/document/d/1Ejqwtz9M5OIxkvXcUUx3Ijk5OkbSfonGseUg9JBmJlw/edit?usp=sharing
+
+提交方式：每位同学提交一份Word文档，截止本周日晚10点。
 
 
