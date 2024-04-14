@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1d724a8-62a5-46aa-b63d-222ce2b214d5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/system/.网络协议（上）.pptx.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/.计算机网络.pptx.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/301.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/307.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/cam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/chrome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/client-server.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/cornell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/fudan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/harvard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/hw-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/server.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/system/overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/system/overview.md" afterDir="false" />
     </list>
@@ -153,22 +166,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/hutong/Desktop/School/2023-2024 S1/cs2023/final&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/hutong/Desktop/School/2023-2024 S1/cs2023/system",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/system" />
       <recent name="$PROJECT_DIR$/final" />
       <recent name="$PROJECT_DIR$/condition" />
       <recent name="$PROJECT_DIR$/function" />
       <recent name="$PROJECT_DIR$/game" />
-      <recent name="$PROJECT_DIR$/finalwork" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/loop" />
@@ -310,7 +323,7 @@
       <workItem from="1703158833060" duration="638000" />
       <workItem from="1703223200711" duration="509000" />
       <workItem from="1711433061016" duration="735000" />
-      <workItem from="1713066347962" duration="1471000" />
+      <workItem from="1713066347962" duration="2894000" />
     </task>
     <servers />
   </component>
