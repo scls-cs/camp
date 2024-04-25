@@ -45,3 +45,10 @@ parts:
     title: '计算机发展史'
   - file: system/overview
     title: '计算机网络'
+
+- caption: game
+  chapters:
+  - file: game/intro
+    title: '游戏介绍'
+  - file: game/hw1
+    title: '游戏设计I'
