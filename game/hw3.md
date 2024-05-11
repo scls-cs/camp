@@ -15,6 +15,8 @@ kernelspec:
 
 # 作业 #
 
+Fork and Run: https://replit.com/@scls-cs/paddlemove，运行程序并阅读代码，完成以下作业：
+
 作业一：请指出paddle在初始位置的四个顶点坐标。
 
 作业二：球拍的初始位置如图所示，请问paddle_x与paddle_y的初始值应该如何修改？
