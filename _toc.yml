@@ -50,3 +50,5 @@ parts:
   chapters:
   - file: game/intro
     title: '游戏介绍'
+  - file: game/move
+    title: '游戏设计I'
