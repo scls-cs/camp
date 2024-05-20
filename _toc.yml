@@ -3,8 +3,3 @@ root: src/problog_book_template
 
 parts:
 - caption: 德致训练营
-  chapters:
-  - file:
-    title: '走近Python'
-  - file: python_intro/variable
-    title: '变量与数据类型'
