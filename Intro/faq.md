@@ -1,3 +1,20 @@
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+rise:
+  start_slideshow_at: beginning
+
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
+
+# 常见问题 #
+
 我每周应该投入多少时间？
 
 每周20-30个小时。休芒夏令营包括每周15个小时的课程和工作坊（周一至周五12-3pm)。除了这些之外，学生每周还需要投入5-10个小时在他们的创业项目上，并定期与团队和顾问老师会面。
