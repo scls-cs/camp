@@ -2,9 +2,12 @@ format: jb-book
 root: src/problog_book_template
 
 parts:
-- caption: 德致训练营
+- caption: 休芒创业夏令营
   chapters:
-  - file: python_intro/first_program
-    title: '走近Python'
-  - file: python_intro/variable
-    title: '变量与数据类型'
+  - file: Intro/intro
+    title: '休芒夏令营是什么？'
+  - file: Intro/faq
+    title: '常见问题'
+
+
+
