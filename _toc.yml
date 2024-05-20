@@ -2,55 +2,9 @@ format: jb-book
 root: src/problog_book_template
 
 parts:
-- caption: First Python Program
+- caption: 德致训练营
   chapters:
-  - file: python_intro/first_program
+  - file:
     title: '走近Python'
   - file: python_intro/variable
     title: '变量与数据类型'
-
-- caption: Function
-  chapters:
-  - file: function/function
-    title: '函数'
-  - file: function/string
-    title: '字符串'
-  - file: function/math
-    title: '数学函数'
-
-- caption: Conditional Statement
-  chapters:
-  - file: condition/if
-    title: '条件判断'
-
-- caption: Loop
-  chapters:
-  - file: loop/while
-    title: 'while循环'
-  - file: loop/list
-    title: 'for循环'
-
-- caption: final
-  chapters:
-  - file: final/image
-    title: '图像编码'
-  - file: final/final_1
-    title: '期末大作业I'
-  - file: final/final_2
-    title: '期末大作业II'
-
-- caption: system
-  chapters:
-  - file: system/history
-    title: '计算机发展史'
-  - file: system/overview
-    title: '计算机网络'
-
-- caption: game
-  chapters:
-  - file: game/intro
-    title: '游戏介绍'
-  - file: game/move
-    title: '游戏设计I'
-  - file: game/hw4
-    title: 'Pong 0'
